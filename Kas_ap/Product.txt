@@ -1,0 +1,5 @@
+Ball 30 12,5
+Bunny 40 7,4
+Bread 20 5,0
+Water 15 3,54
+Short 5 30,0
